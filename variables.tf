@@ -1,8 +1,8 @@
 variable "domainName" {
-  default = "www.amara.ai"
+  default = "sowjitest.com"
   type = string
 }
 variable "bucketName" {
-  default = "amara-website"
+  default = "sowjitest.com"
   type = string
 }
