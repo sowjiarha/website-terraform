@@ -1,4 +1,4 @@
-name: "Terraform"
+name: "Website-Terraform"
 
 on:
   push:
